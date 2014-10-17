@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mmt:home|Door43 (mmt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mmt|d43-mmt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mmt/archive/master.zip|d43-mmt.zip]]
+
+**Recent Changes**
+{{changes>ns = mmt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mmt|Ethnologue data]]
+
